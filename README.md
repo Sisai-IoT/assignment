@@ -1,6 +1,7 @@
 ## Background
 
 Hacker news is a website where people can see latest trends in software industry. These news have point system where in people can upvote an article if they like.
+https://news.ycombinator.com/
 
 ## Assignment
 
