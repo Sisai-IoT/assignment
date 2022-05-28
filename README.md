@@ -16,3 +16,4 @@ Backend API to be used is https://hn.algolia.com/api
 
 - Github repo
 - Hosted on a free platform like netlify.com or github pages, so that it is accesible via web.
+- Don't worry a lot about UI, it should be functional.
