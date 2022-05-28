@@ -4,10 +4,13 @@ Hacker news is a website where people can see latest trends in software industry
 
 ## Assignment
 
-We have to create a search page to take input from user using a input box and search through these articles. Once the search is performed, show the results in a list view (infinite scroll)
+We have to create a search page to take input from user using a input box and search through these articles. Once the search is performed, show the results in a list view (infinite scroll).
 
 ## API To be used.
 
 Backend API to be used is https://hn.algolia.com/api
 
-Host this on a free platform like netlify.com or github pages, so that it is accesible via web.
+## Deliverables
+
+- Github repo
+- Hosted on a free platform like netlify.com or github pages, so that it is accesible via web.
